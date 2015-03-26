@@ -1,2 +1,3 @@
-# mogupapa
-a crawler which can download all the pictures of beautiful girls on  http://www.mogujie.com
+# beautiful-crawlers
+Introduction:
+some crawlers which download girls' pictures of some specific websites.
